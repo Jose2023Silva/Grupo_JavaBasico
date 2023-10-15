@@ -1,4 +1,4 @@
-package org.moure.grupoJava;
+package org.moure.grupoJava.sebasMora;
 
 import java.util.Scanner;
 
