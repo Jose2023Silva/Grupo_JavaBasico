@@ -1,4 +1,4 @@
-package org.moure.grupoJava.sebasMora;
+package org.moure.grupoJava.EjeResueltosComunidad.sebasMora;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package org.moure.grupoJava.alexArcentales;
+package org.moure.grupoJava.EjeResueltosComunidad.alexArcentales;
 
 import java.util.Scanner;
 
