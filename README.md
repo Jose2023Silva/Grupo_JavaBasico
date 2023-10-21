@@ -14,6 +14,7 @@ Este es un repositorio y base de conocimiento del grupo en **JAVA**.
 * Perú: 15 hr
 * Bolivia: 16 hr
 * Caracas, Venezuela: 16 hr
+* Guatemala, 18 hr 
 
 ---
 
