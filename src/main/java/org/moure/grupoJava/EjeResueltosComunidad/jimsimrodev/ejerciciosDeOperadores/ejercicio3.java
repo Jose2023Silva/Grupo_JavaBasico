@@ -1,3 +1,11 @@
+ /**
+         *  Ejercicio 3
+         *  Guillermo tiene N dolars, luis tiene la mitad de lo que posee Guillermo.
+         *  Juan tiene la mitad de lo que poseen luis y Guillermo juntos.
+         *  Hacer el programa que calcule e imprima la cantidad de dinero que tienen entre los
+         *  tres.
+         *
+         */
 package main.java.org.moure.grupoJava.EjeResueltosComunidad.jimsimrodev.ejerciciosDeOperadores;
 
 import java.util.Scanner;
